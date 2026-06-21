@@ -1,0 +1,31 @@
+  217  git init
+  218  git status
+  219  git add readme.md 
+  220  git status
+  221  git commit -m "desc projet"
+  222  git config --global user.email "tokyromeo3@gmail.com"
+  223  git config --global user.name "toky"
+  224  git commit -m "desc projet"
+  225  git branch -M main
+  226  gti remote add origin https://github.com/touky-maker/fake.git
+  227  git remote add origin https://github.com/touky-maker/fake.git
+  228  git push -u origin main
+  229  git config --global credential.helper cache
+  230  git push -u origin main
+  231  git pull origin main --rebase
+  232  git add .
+  233  git commit -m "Mon message de commit"
+  234  git pull origin main --rebase
+  235  git push -u origin main
+  236  cat history
+  237  history -f
+  238  history -n
+  239  ls
+  240  history -n 10
+  241  git add readme.md 
+  242  git commit --amend --no-edit
+  243  emend corrige le dernier commit au lieu de creer un nouveau
+  244  history
+  245  git push -u origin main
+  246  history | sed -n '217,$p'
+  247  history | sed -n '217,$p' | tee historiqueGit
