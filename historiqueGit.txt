@@ -29,3 +29,4 @@
   246  history | sed -n '217,$p'
   247  history | sed -n '217,$p' | tee historiqueGit
 la fin est ici
+non,ici c'est la fin!!
