@@ -21,7 +21,6 @@
   237  history -f
   238  history -n
   239  ls
-
   241  git add readme.md 
   242  git commit --amend --no-edit
   243  emend corrige le dernier commit au lieu de creer un nouveau
