@@ -1,4 +1,5 @@
-  217  git init
+    #  HISTORIQUE  DU COMMANDE GIT
+217  git init
   218  git status
   219  git add readme.md 
   220  git status
@@ -28,5 +29,3 @@
   245  git push -u origin main
   246  history | sed -n '217,$p'
   247  history | sed -n '217,$p' | tee historiqueGit
-la fin est ici
-non,ici c'est la fin!!
